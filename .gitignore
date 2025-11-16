@@ -1,5 +1,6 @@
 envs/
-__pycache__/
-logs/
-*.log
 airflow/logs/
+__pycache__/
+*.log
+spark/
+logs/
